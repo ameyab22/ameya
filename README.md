@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shareefladka22
+- 👋 Hi, I’m Ameya
 - 👀 I’m interested in Programming, Photography
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C++
 - 📫 shareefladka@icloud.com
 
 <!---
