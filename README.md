@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Seaborn, Tensorflow, etc**
 
-- 💬 Ask me about **python, c++**
+- 💬 Ask me about **python, c, c++**
 
 - 📫 How to reach me **badgujaramey22@gmail.com**
 
