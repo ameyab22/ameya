@@ -1,6 +1,6 @@
 # shareefladka22
 Config files for my GitHub profile.
-<h1 align="center">Hi 👋, I'm Amey Badgujar</h1>
+<h1 align="center">Hi 👋, I'm Ameya Badgujar</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameyab22&label=Profile%20views&color=0e75b6&style=flat" alt="ameyab22" /> </p>
