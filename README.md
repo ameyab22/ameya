@@ -1,4 +1,3 @@
-# shareefladka22
 <h1 align="center">Hi 👋, I'm Ameya Badgujar</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
