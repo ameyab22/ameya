@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameyab22&label=Profile%20views&color=0e75b6&style=flat" alt="ameyab22" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow right now**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 📫 How to reach me **badgujaramey22@gmail.com**
 
