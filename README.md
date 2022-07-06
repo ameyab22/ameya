@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning [Tensorflow](https://www.tensorflow.org)
 
 - 📫 How to reach me [here](badgujaramey22@gmail.com)
-or 
+
+**or**
+
 ```
 import numpy as np
 import pandas as pd
