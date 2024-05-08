@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning [Pytorch](https://www.pytorch.org)
 
-- 📫 How to reach me [here](badgujaramey22@gmail.com)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
